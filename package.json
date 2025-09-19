@@ -1,7 +1,7 @@
 {
   "name": "puppeteer-resume-autofill",
   "version": "1.0.0",
-  "description": "使用Puppeteer自动填充简历信息并提交",
+  "description": "🤖 An intelligent resume auto-fill tool using Puppeteer for job applications. Supports multiple job sites including Seek (Australia/New Zealand), with smart form recognition and automated application submission.",
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
@@ -10,19 +10,56 @@
     "seek:search": "node seek-applier.js search",
     "seek:apply": "node seek-applier.js apply",
     "seek:test": "node example.js https://www.seek.com.au",
-    "usage": "node usage.js"
+    "usage": "node usage.js",
+    "demo": "node example.js test"
   },
   "keywords": [
     "puppeteer",
     "automation",
     "resume",
-    "web-scraping"
+    "job-application",
+    "web-scraping",
+    "seek",
+    "auto-fill",
+    "job-search",
+    "career",
+    "recruitment",
+    "australia",
+    "new-zealand",
+    "browser-automation",
+    "form-filler"
   ],
-  "author": "",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://github.com/yourusername"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/puppeteer-resume-autofill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/puppeteer-resume-autofill/issues"
+  },
+  "homepage": "https://github.com/yourusername/puppeteer-resume-autofill#readme",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
   "dependencies": {
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7",
     "puppeteer": "^24.22.0"
-  }
+  },
+  "devDependencies": {},
+  "files": [
+    "main.js",
+    "advanced-filler.js",
+    "seek-applier.js",
+    "example.js",
+    "usage.js",
+    "config/",
+    "README.md",
+    "SEEK-README.md",
+    "LICENSE"
+  ]
 }

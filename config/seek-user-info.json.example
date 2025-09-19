@@ -1,0 +1,62 @@
+{
+  "personal": {
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "phone": "+61 400 123 456",
+    "address": "Sydney, NSW, Australia",
+    "dateOfBirth": "1990-01-01",
+    "nationality": "Australian",
+    "visaStatus": "Australian Citizen"
+  },
+  "education": {
+    "university": "University of Sydney",
+    "major": "Computer Science",
+    "degree": "Bachelor",
+    "graduationYear": "2012",
+    "gpa": "3.8"
+  },
+  "experience": [
+    {
+      "company": "Your Company Name",
+      "position": "Your Position",
+      "startDate": "2018-03",
+      "endDate": "Present",
+      "description": "Brief description of your role and key achievements"
+    }
+  ],
+  "skills": {
+    "programming": ["JavaScript", "TypeScript", "Python", "Java"],
+    "frontend": ["React", "Vue.js", "Angular", "HTML5", "CSS3"],
+    "backend": ["Node.js", "Express", "Spring Boot"],
+    "database": ["MySQL", "PostgreSQL", "MongoDB"],
+    "cloud": ["AWS", "Azure", "Docker"],
+    "tools": ["Git", "Webpack", "Jenkins", "JIRA"]
+  },
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "Project description with your contributions",
+      "technologies": ["React", "Node.js", "AWS"],
+      "role": "Technical Lead"
+    }
+  ],
+  "preferences": {
+    "salary": {
+      "min": 80000,
+      "max": 120000,
+      "currency": "AUD"
+    },
+    "workType": "Full-time",
+    "workArrangement": "Hybrid",
+    "availableFrom": "2025-01-15"
+  }
+}
