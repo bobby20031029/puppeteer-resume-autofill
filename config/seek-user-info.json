@@ -1,0 +1,92 @@
+{
+  "personal": {
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "phone": "+61 400 123 456",
+    "address": "Sydney, NSW, Australia",
+    "dateOfBirth": "1990-01-01",
+    "nationality": "Australian",
+    "visaStatus": "Australian Citizen"
+  },
+  "education": {
+    "university": "University of Sydney",
+    "major": "Computer Science",
+    "degree": "Bachelor",
+    "graduationYear": "2012",
+    "gpa": "3.8"
+  },
+  "experience": [
+    {
+      "company": "Atlassian",
+      "position": "Senior Software Engineer",
+      "startDate": "2018-03",
+      "endDate": "Present",
+      "description": "Lead development of cloud-based collaboration tools using React, Node.js, and AWS. Managed a team of 5 developers and improved system performance by 40%."
+    },
+    {
+      "company": "Canva",
+      "position": "Software Engineer",
+      "startDate": "2015-07",
+      "endDate": "2018-02",
+      "description": "Developed user interface components for the design platform using React and TypeScript. Implemented responsive design features used by millions of users."
+    },
+    {
+      "company": "REA Group",
+      "position": "Junior Developer",
+      "startDate": "2012-07",
+      "endDate": "2015-06",
+      "description": "Built features for realestate.com.au using Java and JavaScript. Contributed to mobile app development and API optimization."
+    }
+  ],
+  "skills": {
+    "programming": ["JavaScript", "TypeScript", "Python", "Java", "C#"],
+    "frontend": ["React", "Vue.js", "Angular", "HTML5", "CSS3", "SASS"],
+    "backend": ["Node.js", "Express", "Spring Boot", ".NET Core"],
+    "database": ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+    "cloud": ["AWS", "Azure", "Docker", "Kubernetes"],
+    "tools": ["Git", "Webpack", "Jenkins", "JIRA", "Confluence"]
+  },
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    },
+    {
+      "language": "Mandarin",
+      "level": "Conversational"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Certified Scrum Master (CSM)"
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform Modernization",
+      "description": "Led the migration of legacy e-commerce platform to modern React-based architecture, resulting in 50% faster page load times",
+      "technologies": ["React", "Node.js", "AWS", "Docker"],
+      "role": "Technical Lead"
+    },
+    {
+      "name": "Real-time Analytics Dashboard",
+      "description": "Developed real-time data visualization dashboard for business intelligence using D3.js and WebSocket",
+      "technologies": ["D3.js", "WebSocket", "Redis", "PostgreSQL"],
+      "role": "Full-stack Developer"
+    }
+  ],
+  "socialMedia": {
+    "linkedin": "https://linkedin.com/in/johnsmith",
+    "github": "https://github.com/johnsmith",
+    "portfolio": "https://johnsmith.dev"
+  },
+  "preferences": {
+    "salary": {
+      "min": 120000,
+      "max": 160000,
+      "currency": "AUD"
+    },
+    "workType": "Full-time",
+    "workArrangement": "Hybrid",
+    "availableFrom": "2025-01-15"
+  }
+}

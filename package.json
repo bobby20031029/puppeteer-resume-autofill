@@ -1,0 +1,28 @@
+{
+  "name": "puppeteer-resume-autofill",
+  "version": "1.0.0",
+  "description": "使用Puppeteer自动填充简历信息并提交",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node example.js test",
+    "seek:help": "node seek-applier.js",
+    "seek:search": "node seek-applier.js search",
+    "seek:apply": "node seek-applier.js apply",
+    "seek:test": "node example.js https://www.seek.com.au",
+    "usage": "node usage.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "automation",
+    "resume",
+    "web-scraping"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer": "^24.22.0"
+  }
+}

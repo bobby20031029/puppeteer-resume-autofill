@@ -1,0 +1,84 @@
+{
+  "personal": {
+    "name": "张三",
+    "email": "zhangsan@example.com",
+    "phone": "13800138000",
+    "address": "北京市朝阳区XX街道XX号",
+    "dateOfBirth": "1990-01-01",
+    "gender": "男",
+    "nationality": "中国",
+    "idCard": "110101199001011234"
+  },
+  "education": {
+    "university": "北京大学",
+    "major": "计算机科学与技术",
+    "degree": "本科",
+    "graduationYear": "2012",
+    "gpa": "3.8",
+    "coursework": "数据结构、算法设计、数据库系统、软件工程"
+  },
+  "experience": [
+    {
+      "company": "腾讯科技有限公司",
+      "position": "高级前端工程师",
+      "startDate": "2018-03",
+      "endDate": "至今",
+      "description": "负责微信小程序前端开发，参与用户增长项目，优化页面性能提升30%"
+    },
+    {
+      "company": "阿里巴巴集团",
+      "position": "前端工程师",
+      "startDate": "2015-07",
+      "endDate": "2018-02",
+      "description": "负责淘宝商家后台系统开发，使用React和Node.js技术栈"
+    },
+    {
+      "company": "百度在线网络技术公司",
+      "position": "初级前端工程师",
+      "startDate": "2012-07",
+      "endDate": "2015-06",
+      "description": "负责百度搜索页面优化，参与移动端适配项目"
+    }
+  ],
+  "skills": {
+    "programming": ["JavaScript", "TypeScript", "Python", "Java"],
+    "frontend": ["React", "Vue.js", "Angular", "HTML5", "CSS3", "SASS"],
+    "backend": ["Node.js", "Express", "Koa", "Spring Boot"],
+    "database": ["MySQL", "MongoDB", "Redis"],
+    "tools": ["Git", "Webpack", "Docker", "Jenkins"],
+    "others": ["微信小程序", "React Native", "Electron"]
+  },
+  "languages": [
+    {
+      "language": "中文",
+      "level": "母语"
+    },
+    {
+      "language": "英语",
+      "level": "CET-6 550分，能够流利阅读英文技术文档"
+    }
+  ],
+  "certifications": [
+    "软件设计师（中级）",
+    "PMP项目管理认证"
+  ],
+  "projects": [
+    {
+      "name": "电商平台前端重构项目",
+      "description": "使用React重构传统jQuery项目，提升用户体验和开发效率",
+      "technologies": ["React", "Redux", "Webpack", "SASS"],
+      "role": "前端技术负责人"
+    },
+    {
+      "name": "企业级组件库开发",
+      "description": "设计并开发可复用的UI组件库，支持多主题定制",
+      "technologies": ["Vue.js", "TypeScript", "Storybook"],
+      "role": "核心开发者"
+    }
+  ],
+  "socialMedia": {
+    "linkedin": "https://linkedin.com/in/zhangsan",
+    "github": "https://github.com/zhangsan",
+    "blog": "https://zhangsan.blog.com"
+  }
+}
